@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/bober486/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <p>I'm a front-end developer from Ukraine, searching for a job.</p>
  <p>✍️ I like to develop landing pages and websites.</p> 
- <p>🤓 Also I'm studying languages of programing every day.</p>
+ <p>🤓  I'm also studying languages of programing and improving myself every day</p>
  <h2>📚My stack</h2>
  
  <b>Langs</b>  
