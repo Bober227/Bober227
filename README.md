@@ -8,6 +8,6 @@
 <p>
 I'm a front-end developer from Ukraine, searching for a job.
   
-I like to develop landing pages and websites.
-Also I am studying language of programing every day. 
+I like to develop landing pages and websites.✍️
+Also I'm studying language of programing every day.🤓
 </p>
