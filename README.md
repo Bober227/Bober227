@@ -5,9 +5,9 @@
 <h2>About me</h2>
 <a href="https://t.me/bober112"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://www.instagram.com/bober486/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<p>
-I'm a front-end developer from Ukraine, searching for a job.
-  
-I like to develop landing pages and websites.✍️
-Also I'm studying language of programing every day.🤓
-</p>
+<p>I'm a front-end developer from Ukraine, searching for a job.</p>
+ <p>✍️ I like to develop landing pages and websites.</p> 
+ <p>🤓 Also I'm studying language of programing every day.</p>
+
+
+
